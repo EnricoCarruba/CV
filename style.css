@@ -81,3 +81,16 @@ details summary {
 li {
   margin-top: 1rem;
 }
+
+#profile-picture {
+  border-radius: 50%;
+  width: 40%;
+  height: auto;
+  margin-top: 3rem;
+}
+
+.table {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  grid-auto-columns: minmax(10px, auto);
+}
