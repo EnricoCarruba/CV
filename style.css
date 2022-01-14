@@ -17,6 +17,9 @@ html {
   text-align: center;
 }
 
+.profession {
+  font-size: 1.1rem;
+}
 .button {
   border-radius: 4px;
   background-color: rgb(70, 70, 177);
@@ -65,10 +68,12 @@ html {
 
 .nav-link {
   margin: 0.5rem;
+  font-size: 1.2rem;
 }
 
 .main {
   margin: 2rem;
+  font-size: 1.3rem;
 }
 
 details summary {
