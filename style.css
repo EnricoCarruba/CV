@@ -114,3 +114,114 @@ li {
   grid-template-columns: 2fr 3fr;
   grid-auto-columns: minmax(10px, auto);
 }
+
+/* START Skill bar styling */
+.skill-container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skill {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  color: white;
+  font-size: 1rem;
+}
+
+.html {
+  width: 70%;
+  background-color: blueviolet;
+}
+
+.css {
+  width: 60%;
+  background-color: blueviolet;
+}
+
+.js {
+  width: 80%;
+  background-color: blueviolet;
+}
+
+.vue {
+  width: 65%;
+  background-color: blueviolet;
+}
+
+.git {
+  width: 60%;
+  background-color: blueviolet;
+}
+
+.node {
+  width: 30%;
+  background-color: blueviolet;
+}
+
+.npm {
+  width: 30%;
+  background-color: blueviolet;
+}
+
+.java {
+  width: 80%;
+  background-color: blueviolet;
+}
+
+.teamwork {
+  width: 90%;
+  background-color: blueviolet;
+}
+
+.databases {
+  width: 30%;
+  background-color: blueviolet;
+}
+
+.communication {
+  width: 80%;
+  background-color: blueviolet;
+}
+
+.adaptability {
+  width: 80%;
+  background-color: blueviolet;
+}
+
+.patience {
+  width: 50%;
+  background-color: blueviolet;
+}
+
+.problem-solving {
+  width: 70%;
+  background-color: blueviolet;
+}
+
+.time-management {
+  width: 80%;
+  background-color: blueviolet;
+}
+
+.english-language {
+  width: 70%;
+  background-color: blueviolet;
+}
+
+.italian-language {
+  width: 70%;
+  background-color: blueviolet;
+}
+
+.german-language {
+  width: 100%;
+  background-color: blueviolet;
+}
+/* END Skill bar styling */
+
+.contact {
+  list-style: none;
+  padding: 0px;
+}
