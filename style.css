@@ -77,10 +77,25 @@ html {
 }
 
 details summary {
-  list-style: none;
   cursor: pointer;
   color: blue;
-  /* you can style it however you want, use background-image for example */
+  list-style: none;
+}
+
+details summary::before {
+  content: "show details";
+}
+
+details[open] summary::before {
+  content: "hide details";
+}
+
+details summary::webkit-details-marker {
+  display: none;
+}
+
+summary {
+  font-style: italic;
 }
 
 li {
