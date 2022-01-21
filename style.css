@@ -235,9 +235,9 @@ footer {
 
 #contact-button-container {
   position: relative;
-  align-items: center;
+  text-align: center;
 }
 
-#contact-button {
-  text-align: center;
+li {
+  list-style: none;
 }
