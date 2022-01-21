@@ -232,3 +232,12 @@ footer {
   text-align: center;
   background-image: linear-gradient(235deg, var(--main-color), #87bdd8);
 }
+
+#contact-button-container {
+  position: relative;
+  align-items: center;
+}
+
+#contact-button {
+  text-align: center;
+}
