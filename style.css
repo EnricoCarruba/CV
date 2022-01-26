@@ -241,3 +241,26 @@ footer {
 li {
   list-style: none;
 }
+
+.hire-me {
+  background-color: rgb(70, 70, 177);
+  color: white;
+  padding: 1.5em 4em;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  margin: 1.5rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+.hire-me:hover {
+  background-color: rgb(70, 70, 250);
+}
+
+@media screen and (min-width: 768px) {
+  .job-position {
+    margin-bottom: 20px;
+  }
+}
