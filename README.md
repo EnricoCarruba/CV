@@ -8,5 +8,6 @@ Like almost everything in life where nothing is perfect, this CV isn't, too. Thi
 
 - Changing CSS classes for the skills. Right now every skill has its own css lass which seems to be unnecessary.
 - The HTML at some parts is inconsistent.
-- The page needs to be checked and refactored for accessibility reasons. 
+- The page needs to be checked and refactored for accessibility reasons. #
+- On Iphones (Safari and chrome) is shown an arrow behind the summary element which has to be hidden. 
 
