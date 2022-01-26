@@ -253,10 +253,13 @@ li {
   margin-bottom: 2rem;
   text-transform: uppercase;
   border-radius: 5px;
+  opacity: 0.8;
+  transition: 0.3s;
 }
 
 .hire-me:hover {
-  background-color: rgb(70, 70, 250);
+  background-color: rgb(70, 70, 177);
+  opacity: 1;
 }
 
 .job-position {
