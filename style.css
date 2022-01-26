@@ -60,6 +60,10 @@ summary {
   font-style: italic;
 }
 
+summary:focus {
+  outline: 0;
+}
+
 li {
   margin-top: 1rem;
 }
