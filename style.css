@@ -52,7 +52,7 @@ details[open] summary::before {
   content: "hide details";
 }
 
-details summary::webkit-details-marker {
+details > summary::marker {
   display: none;
 }
 
