@@ -58,6 +58,7 @@ details > summary::marker {
 
 summary {
   font-style: italic;
+  display: block;
 }
 
 summary:focus {
