@@ -259,6 +259,10 @@ li {
   background-color: rgb(70, 70, 250);
 }
 
+.job-position {
+  margin-bottom: 10px;
+}
+
 @media screen and (min-width: 768px) {
   .job-position {
     margin-bottom: 20px;
