@@ -58,9 +58,11 @@ details > summary::marker {
 
 summary {
   font-style: italic;
-  display: block;
 }
 
+summary::webkit-details-marker {
+  color: transparent;
+}
 summary:focus {
   outline: 0;
 }
